@@ -35,4 +35,4 @@ A Python-based URL phishing detector that combines **rule-based keyword checking
 
 ## Developer
 **Anishka**  
-- GitHub: [https://github.com/AnishkaYadav](https://github.com/Anishka2006)  
+- GitHub: [https://github.com/Anishka2006](https://github.com/Anishka2006)  
