@@ -32,7 +32,3 @@ A Python-based URL phishing detector that combines **rule-based keyword checking
 - pandas
 - scikit-learn
 - joblib
-
-## Developer
-**Anishka**  
-- GitHub: [https://github.com/Anishka2006](https://github.com/Anishka2006)  
